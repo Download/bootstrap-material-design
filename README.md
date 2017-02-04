@@ -13,6 +13,8 @@ Check out [the demo at this link](http://fezvrasta.github.io/bootstrap-material-
 
 ## How to install
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Download/bootstrap-material-design.svg)](https://greenkeeper.io/)
+
 You may install this theme using Bower or Meteor:
 
 - Bower : `bower install bootstrap-material-design`
